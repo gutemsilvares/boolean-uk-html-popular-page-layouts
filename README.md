@@ -1,2 +1,2 @@
-# css-grid-boolean-website
+# gym-repository
 Created with CodeSandbox
